@@ -1,0 +1,30 @@
+.card {
+    background-color:rgb(219,112,147);
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cadastro {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: white;
+    
+}
+
+input {
+    color: white;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
